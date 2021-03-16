@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Parstagram*
 
 **Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
 
@@ -24,9 +24,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/kt0zIcUZNmiBPA1vJF/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='https://media.giphy.com/media/erYa8txhrPV0wVhznn/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
