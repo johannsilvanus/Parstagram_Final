@@ -30,7 +30,7 @@ a
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/IILmMmrtmD9dQOXlM1/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='164993878_3876506089097697_3892984905717520729_n.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
